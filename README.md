@@ -16,7 +16,7 @@ Hackrrank.playground
 Pages
   │
 Day.xcplaygroundpage ──┰── Contents.swift
-					   └── Resources ── Problem.md
+		       └── Resources ── Problem.md
 ```
 - Day : 매일 출제되는 문제의 페이지  
 - Contents.swift : 문제 해결 방법  
