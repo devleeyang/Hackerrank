@@ -21,13 +21,13 @@ Print the sum of both integers on the first line, the sum of both doubles (scale
 
 **Sample Input**
 >12
->4.0
->is the best place to learn and practice coding!
+4.0
+is the best place to learn and practice coding!
 
 **Sample Output**
 >16
->8.0
->HackerRank is the best place to learn and practice coding!
+8.0
+HackerRank is the best place to learn and practice coding!
 
 **Explanation**
 When we sum the integers  and , we get the integer . 
