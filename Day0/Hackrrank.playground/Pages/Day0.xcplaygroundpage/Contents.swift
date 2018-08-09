@@ -1,3 +1,4 @@
+//: [Previous](@previous)
 
 let inputString = "Welcome to 30 Days of Code!"
 // get a line of input from stdin and save it to our variable
