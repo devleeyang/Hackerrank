@@ -25,6 +25,6 @@ Day.xcplaygroundpage ──┰── Contents.swift
 ## history
 2018.08.08 - Day0 **pass**  
 2018.08.09 - Day1 **pass**  
-
+2018.08.10 - Day2 **pass**  
 
 
