@@ -28,9 +28,11 @@ Day.xcplaygroundpage ──┰── Contents.swift
 2018.08.10 - Day2 **pass**  
 2018.08.12 - Day3 **pass** (working 1)   
 2018.08.13 - Day4 **pass**   
-2018.08.14 - Day5 **pass** 
+2018.08.14 - Day5 **pass**  
 2018.08.15 - Day6 **pass** (working 2)    
-2018.08.17 - Day7 **pass** (working 2) 
-2018.08.29 - Day8 **pass** (working 3) 
-2018.09.10 - Day9 **pass**
-2018.09.18 - Day10 **pass** 
+2018.08.17 - Day7 **pass** (working 2)  
+2018.08.29 - Day8 **pass** (working 3)   
+2018.09.10 - Day9 **pass**   
+2018.09.18 - Day10 **pass**    
+2018.09.22 - Day11 **pass** (working 3)   
+2018.09.23 - Day12 **pass**   
